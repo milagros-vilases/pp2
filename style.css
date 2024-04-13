@@ -1,0 +1,293 @@
+.container-fluid{
+  background-color:#E2BDEB;
+}
+.nav-item {
+	font-size: 115%;
+}
+
+@font-face{
+  font-family: dancing;
+  src: url(static/DancingScript-Regular.ttf);
+}
+
+body {
+	text-align: center;
+	background-color: #F6DEFD;
+	margin-bottom: 30px;
+	padding-bottom: 50px;
+  }
+h1 {
+	font-family: dancing;
+	margin-top: 20px;
+}
+
+h2 {
+	font-family: dancing;
+	margin-top: 30px;
+}
+
+p {
+	font-size: 140%;
+}
+
+/* Texto INDEX*/ 
+.p2 {
+	text-align:inherit;
+	font-size: 85%;
+	display: inline-block;
+	text-align: justify;
+	padding: 20px;
+	margin-top: 10px; 
+    margin-bottom: 10px; 
+    margin-left: 150px;
+    margin-right: 150px; 
+}
+
+.enlacethriller {
+	color: blueviolet;
+}
+.swiffy-slider {
+	width: 40%;
+	height: 40%;
+	text-align: center;
+  }
+
+.thriller:hover {
+	height:15%;
+	width:15%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+
+.imgthriller1:hover{
+	height:5%;
+	width:5%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+/* LIBROS THRILLER*/
+.nuestrapartediv {
+	font-size: 80%;
+	display: flex;
+}
+
+#nuestratxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+#nuestrafoto {
+		display: flex;
+		float: left;
+		padding-left: 25px;
+	
+	}
+
+.terapiadiv {
+	font-size: 80%;
+	display: flex;
+}
+
+#terapiatxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+#terapiafoto {
+		display: flex;
+		float: left;
+		padding-left: 25px;
+	}
+
+.lallamadadiv {
+	font-size: 80%;
+	display: flex;
+}
+	
+#lallamadatxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+}
+	#lallamadafoto {
+	display: flex;
+	float: left;
+	padding-left: 25px;
+		}
+
+
+.athriller {
+text-decoration: none;
+}
+
+.imgthriller1:hover{
+	height:5%;
+	width:15%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+
+.imgthriller2:hover{
+	height:12%;
+	width:14%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+
+.imgthriller3:hover{
+	height:15%;
+	width:15%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+/* LIBROS FANTASIA*/
+
+.fantasia:hover {
+	height: 15%;
+	width: 15%;
+	border: 2px;
+	border-color: #F6DEFD;
+}
+
+.fantasia1:hover {
+	height: 15%;
+	width: 17%;
+	border: 2px;
+	border-color: #F6DEFD;
+
+}
+
+.fantasia2:hover {
+	height: 9%;
+	width: 17%;
+	border: 2px;
+	border-color: #F6DEFD;
+}
+
+.desangrediv {
+	font-size: 80%;
+	display: flex;
+}
+#desangretxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+
+#desangrefoto {
+	display: flex;
+	float: left;
+	padding-left: 25px;
+}
+
+.elreinodiv {
+	font-size: 80%;
+	display: flex;
+}
+
+#elreinotxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+
+#elreinofoto {
+	display: flex;
+	float: left;
+	padding-left: 25px;
+}
+
+
+.realismo:hover {
+	height: 15%;
+	width: 15%;
+	border: 2px;
+	border-color: #F6DEFD;
+}
+
+.realismo1:hover {
+	height:10%;
+	width: 14%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+.realismo2:hover {
+	height:15%;
+	width:15%;
+	border:2px;
+	border-color: #F6DEFD;
+}
+/* LIBROS REALISMO*/
+.cometierradiv {
+	font-size: 80%;
+	display: flex;
+}
+#cometierratxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+
+#cometierrafoto {
+	display: flex;
+	float: left;
+	padding-left: 25px;
+}
+
+.epicadiv {
+	font-size: 80%;
+	display: flex;
+}
+#epicatxt {
+	display: inline-block;
+	float: right;
+	text-align: justify;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 20px;
+	}
+
+#epicafoto {
+	display: flex;
+	float: left;
+	padding-left: 25px;
+}
+
+/* Contacto */ 
+
+#redesp {
+	font-family: dancing;
+	font-size: 180%;
+}
+	.redes{
+		font-size: 90%;
+	}
+	  
+
+#copyright {
+	font-size: 100%;
+	margin-bottom: 10px;
+}
+
+
+
+
+
